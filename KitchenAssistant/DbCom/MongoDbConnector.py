@@ -9,6 +9,3 @@ def LoadUserData():
     print(collection)
 
 
-# Example: Insert a document
-#result = collection.find_one({"name": "Alice"})
-
